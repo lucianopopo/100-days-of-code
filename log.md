@@ -8,6 +8,7 @@ O log do meu desafio #100DaysOfCode. Iniciado em [14 de abril, terça-feira, 202
 
 **Progresso do dia:** 
 Comitei os desafios do site https://www.hackerrank.com/. Estou no desafio Day 20 do "30 Days of Code" e "Minimum Swaps 2" do Arrays nos desafios do Interview Preparation Kit.
+Finalizado o desafio Day 20: Sorting
 
 **Aprendizados:**
 Relembrando o Bubble Sorting no desafio Day 20: Sorting

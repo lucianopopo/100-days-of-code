@@ -1,4 +1,4 @@
-# Regras do desafio 100 Days Of Code
+﻿# Regras do desafio 100 Days Of Code
 
 ## Compromisso principal
 
@@ -6,7 +6,7 @@
 
 #### Data de início
 
-25 de junho, 2016. [COLOQUE SUA DATA AQUI]
+14 de abril, 2020. [COLOQUE SUA DATA AQUI]
 
 ## Regras adicionais
 
