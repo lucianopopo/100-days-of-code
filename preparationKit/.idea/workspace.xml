@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36876340-efa4-4c70-a3b4-cd2b86d00bf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thirty/days/of/code/Day21Generics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/invillia/EmailThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/invillia/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thirty/days/of/code/Day20Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thirty/days/of/code/Day20Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +40,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Day20Sorting">
-    <configuration name="Day17MoreExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirty.days.of.code.Day17MoreExceptions" />
-      <module name="preparation-kit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thirty.days.of.code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day21Generics">
     <configuration name="Day18QueuesStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thirty.days.of.code.Day18QueuesStacks" />
       <module name="preparation-kit" />
@@ -96,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day21Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirty.days.of.code.Day21Generics" />
+      <module name="preparation-kit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirty.days.of.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmailThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="invillia.EmailThread" />
       <module name="preparation-kit" />
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day21Generics" />
         <item itemvalue="Application.Day20Sorting" />
         <item itemvalue="Application.EmailThread" />
         <item itemvalue="Application.Day19Interfaces" />
         <item itemvalue="Application.Day18QueuesStacks" />
-        <item itemvalue="Application.Day17MoreExceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +130,8 @@
       <workItem from="1584637558247" duration="5511000" />
       <workItem from="1585128327136" duration="5265000" />
       <workItem from="1585220231997" duration="787000" />
-      <workItem from="1586904663384" duration="1358000" />
+      <workItem from="1586904663384" duration="2545000" />
+      <workItem from="1586989320536" duration="875000" />
     </task>
     <servers />
   </component>
