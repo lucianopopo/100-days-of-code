@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Day15LinkedList {
 	
-	public static  Node insert(Node head, int data) {
+	public static Node insert(Node head, int data) {
         // testa se o head é nulo
         if(head == null) {
             return new Node(data);

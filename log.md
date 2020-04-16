@@ -18,3 +18,10 @@ Finalizado o desafio Day 21: Generics
 
 **Aprendizados:**
 Relembrando como passar um tipo genérico como parâmetro de um método
+
+### R1D3
+**Progresso do dia:** 
+Finalizado o desafio Day 22: Binary Search Trees
+
+**Aprendizados:**
+Relembrando Árvores de Busca Binária
