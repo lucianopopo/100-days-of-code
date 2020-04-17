@@ -25,3 +25,11 @@ Finalizado o desafio Day 22: Binary Search Trees
 
 **Aprendizados:**
 Relembrando Árvores de Busca Binária
+
+### R1D4
+**Progresso do dia:** 
+Finalizado o desafio Day 23: BST Level-Order Traversal
+
+**Aprendizados:**
+Aprofundando o conhecimento de Árvores de Busca Binária e trabalhando com
+nivel de ordem transversal (level-order traversal ou breadth-first search)
